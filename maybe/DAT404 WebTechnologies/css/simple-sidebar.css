@@ -12,8 +12,8 @@ h1 {
   text-align: center;
 }
 
-btn {
-  height: 40;
+.aboutUsSection{
+  background-color: #ccc
 }
 
 #wrapper {
